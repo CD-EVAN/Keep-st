@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Keep-St</string>
-    <string name="main">主页</string>
-    <string name="video">视频</string>
-    <string name="chat">聊天</string>
-    <string name="me">我</string>
-</resources>
